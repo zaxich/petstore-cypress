@@ -1,0 +1,28 @@
+{
+    "id": 123,
+    "category": {
+        "id": 12314,
+        "name": "asd"
+    },
+    "name": "doggie",
+    "photoUrls": [
+        "nulla commodo cillum laboris exercitation",
+        "cupidatat ad ea aliqua"
+    ],
+    "tags": [
+        {
+            "id": -9505430,
+            "name": "commodo exercitation"
+        },
+        {
+            "id": 86990852,
+            "name": "labore commodo"
+        }
+    ],
+    "status": "available",
+    "additionalMetadata": "officia minim",
+    "category2": {
+        "id": 1,
+        "name": "qwe"
+    }
+}
